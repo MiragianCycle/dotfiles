@@ -1,0 +1,37 @@
+image-20210509143050455,v
+- ,V
+set spell ,v
+],v
+1,v
+f,v
+MARKETINGDistinguish ,v
+MARKETINGDescribe ,v
+MARKETINGGive ,v
+MARKETINGExplain ,v
+.,v
+*,v
+MARKETING ,v
+ ,v
+,V
+i,v
+d,v
+$by the end of this module, you should be able to...,v
+Module                                      Learning Objectives ,V
+|------- | ------------------- |,V
+| MODULE | LEARNING OBJECTIVES |,V
+Module                                     	Learning Objectives Module 1: The New Rules of Marketing Through Social Media: What Is Different and Why?	By the end of this module, you should be able to...1. Explain how marketing through social media differs in four distinct ways from marketing through traditional mass media2. Describe how the value creation process and the consumer decision process have changed due to the rise of social media3. Compare the concepts of paid, owned, and earned media4. Outline four social media strategies and indicate how they differ from one another.Module 2:  Social Media Literacy and Content Marketing: The Ingredients For Designing Successful Communication Strategies on Social Media 	By the end of this module, you should be able to... 1.	Describe how social media platforms differ from each other in terms of characteristics and cultures.2.	Appreciate the importance of social media literacy for ‘doing social media right’. 3.	Describe three common problems marketers face when creating communication strategies on social media and identify their solutions. 4.	Design for your company a communication strategy on social media through content marketing: determine who you want to reach, with which objective, and which platforms are most suitable to reach your target and objective. 5. Determine for your company a content production and content management strategy.Module 3:  Word-of-Mouth Marketing: Getting Consumers To Create and Share Brand-Relevant Content  	By the end of this module, you should be able to…1. Distinguish the two different mechanisms underlying word-of-mouth in terms of consumer motivations, word-of-mouth content, marketing objective, and relevant influencer type. 2. Analyze the usefulness of a review and ratings section and suggest areas of improvement to help consumers make better purchase decisions3. Explain the characteristics of both the message and the messengers in order to facilitate spreadability of content via social media. 4. Argue why ethics in word-of-mouth marketing is important and list four good practices according to the Word-of-Mouth Marketing Association. 5. Distinguish four different causes of negative buzzModule 4:  Community Marketing: How To Leverage Social Media for Care, Intelligence, and Consumer Bonding  	By the end of this module, you should be able to... 1.	Explain the difference between reactive and proactive care and describe how companies can use social media for both purposes by means of examples.2.	Give three defining characteristics of community and classify communities based on ownership structure and user type. 3.	Describe three community strategy options for companies and argue which one is most relevant in which business circumstances. 4.	Distinguish four community member types and argue how you can increase members’ topical and social involvement respectively. 5. Propose an approach to measure social media marketing efforts for your company.,v
+Learning Objectives    - Explain how marketing through social media differs in four distinct ways from marketing through traditional mass media.    - Describe how the value creation process and the consumer decision process have changed due to the rise of social media.    - Compare the concepts of paid, owned, and earned media.    - Outline four social media strategies and indicate how they differ from one another.,v
+WHAT LESSONS CAN OPEN THINKING BRING TO EDUCATION? ,V
+Plug 'colepeters/spacemacs-theme.vim'Plug 'sainnhe/gruvbox-material'Plug 'phanviet/vim-monokai-pro'Plug 'flazz/vim-colorschemes'Plug 'chriskempson/base16-vim'Plug 'gruvbox-community/gruvbox',v
+Plug 'thaerkh/vim-workspace'"Related to above, the following code saves all session files in a single directory outside your"workspacelet g:workspace_session_directory = $HOME . '/.vim/sessions/',v
+"   This is a selection of plugins to make prose writing easier. Plug 'dpelle/vim-LanguageTool' Plug 'ron89/thesaurus_query.vim' Plug 'junegunn/goyo.vim' Plug 'junegunn/limelight.vim' Plug 'reedes/vim-pencil' Plug 'reedes/vim-wordy',v
+" The next two settings ensure that line breaks and wrap work how writers, not" coders, prefer itset wrap,v
+Theena is a an asshole why ,V
+suc ,v
+Plug 'kblin/vim-fountain,V
+Plug 'kblin/vim-fountain,v
+n,v
+/ Misentropy / Miss N Tropy ,v
+## This is a markdown test written in vim:set** let'see,v
+192.168.8.101 ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBKqA7Vf1XwH6Yf69arUarjhWX+YXnwjR/UDWXKFeyD4jzP6u2R8bENzKSvtoY4xf82oS9b3CiKW1dng5pF+XEmg=192.168.8.100 ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBKqA7Vf1XwH6Yf69arUarjhWX+YXnwjR/UDWXKFeyD4jzP6u2R8bENzKSvtoY4xf82oS9b3CiKW1dng5pF+XEmg=github.com,52.74.223.119 ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAq2A7hRGmdnm9tUDbO9IDSwBK6TbQa+PXYPCPy6rbTrTtw7PHkccKrpp0yVhp5HdEIcKr6pLlVDBfOLX9QUsyCOV0wzfjIJNlGEYsdlLJizHhbn2mUjvSAHQqZETYP81eFzLQNnPHt4EVVUh7VfDESU84KezmD5QlWpXLmvU31/yMf+Se8xhHTvKSCZIFImWwoG6mbUoWf9nzpIoaSjB+weqqUUmpaaasXVal72J+UX2B+2RPW3RcT0eOzQgqlJL3RKrTJvdsjE3JEAvGq3lGHSZXy28G3skua2SmVi/w4yCE6gbODqnTWlg7+wC604ydGXA8VJiS5ap43JXiUFFAaQ==,v
+:,V
