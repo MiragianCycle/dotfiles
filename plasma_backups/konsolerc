@@ -1,0 +1,65 @@
+[Desktop Entry]
+DefaultProfile=Theena .profile
+
+[DownloadDialog Settings]
+Height 1080=571
+Height 1620=583
+Width 1920=700
+Width 2880=700
+
+[Favorite Profiles]
+Favorites=Theena .profile
+
+[FileDialogSize]
+Height 1296=604
+Width 2304=924
+
+[KFileDialog Settings]
+detailViewIconSize=0
+
+[KonsoleWindow]
+AllowMenuAccelerators=true
+RemoveWindowTitleBarAndFrame=true
+
+[MainWindow]
+Height 1029=480
+Height 1080=1080
+Height 1152=1152
+Height 1234=1194
+Height 1296=1296
+Height 1440=1440
+Height 1536=1536
+Height 1620=1620
+Height 1728=1536
+Height 1920=1920
+Height 2160=1620
+Height 617=577
+Height 864=833
+Height 900=851
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAA2AAAAYAAAAABAAAAAQAAAAIAAAACPwAAAAA
+ToolBarsMovable=Disabled
+Width 1080=1080
+Width 1097=1097
+Width 1536=762
+Width 1600=800
+Width 1829=640
+Width 1920=1280
+Width 2048=1024
+Width 2194=2194
+Width 2304=2304
+Width 2560=2560
+Width 2880=2880
+Width 3072=864
+Width 3840=1440
+Width 864=864
+Window-Maximized 1080x1920=true
+Window-Maximized 1152x2048=true
+Window-Maximized 1440x1920=true
+Window-Maximized 1536x2048=true
+Window-Maximized 1600x2560=true
+
+[TabBar]
+ExpandTabWidth=true
+NewTabBehavior=PutNewTabAfterCurrentTab
+NewTabButton=true

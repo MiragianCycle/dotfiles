@@ -1,0 +1,7 @@
+[General]
+Index=Ubun
+
+[Ubun]
+Port=22
+Type=Fish
+URL=fish://theena@192.168.8.101:22/home/theena/

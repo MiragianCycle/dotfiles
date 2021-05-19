@@ -1,0 +1,12 @@
+[$Version]
+update_info=kscreenlocker.upd:0.1-autolock
+
+[Greeter]
+Theme=com.github.vinceliuice.WhiteSur-dark
+WallpaperPlugin=org.kde.image
+
+[Greeter][LnF][General]
+showMediaControls=false
+
+[Greeter][Wallpaper][org.kde.image][General]
+Image=file:///home/theena/Pictures/wallpapers/macos/macos/Yosemite 2.jpg

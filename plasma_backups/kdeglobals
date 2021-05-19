@@ -1,0 +1,167 @@
+[$Version]
+update_info=filepicker.upd:filepicker-remove-old-previews-entry,fonts_global.upd:Fonts_Global,fonts_global_toolbar.upd:Fonts_Global_Toolbar,icons_remove_effects.upd:IconsRemoveEffects,kwin.upd:animation-speed
+
+[ColorEffects:Disabled]
+ChangeSelectionColor=
+Color=112,111,110
+ColorAmount=0
+ColorEffect=0
+ContrastAmount=0.65
+ContrastEffect=1
+Enable=
+IntensityAmount=0.1
+IntensityEffect=0
+
+[ColorEffects:Inactive]
+ChangeSelectionColor=true
+Color=112,111,110
+ColorAmount=0.025
+ColorEffect=2
+ContrastAmount=0.1
+ContrastEffect=2
+Enable=true
+IntensityAmount=0
+IntensityEffect=0
+
+[Colors:Button]
+BackgroundAlternate=49,51,56
+BackgroundNormal=68,69,75
+DecorationFocus=86,87,245
+DecorationHover=86,87,245
+ForegroundActive=255,128,224
+ForegroundInactive=153,153,153
+ForegroundLink=66,133,244
+ForegroundNegative=191,3,3
+ForegroundNeutral=176,128,0
+ForegroundNormal=234,234,234
+ForegroundPositive=0,110,40
+ForegroundVisited=224,64,251
+
+[Colors:Complementary]
+BackgroundAlternate=54,57,62
+BackgroundNormal=33,35,41
+DecorationFocus=66,133,244
+DecorationHover=89,151,244
+ForegroundActive=246,116,0
+ForegroundInactive=136,136,136
+ForegroundLink=49,91,239
+ForegroundNegative=237,21,21
+ForegroundNeutral=201,206,59
+ForegroundNormal=222,222,222
+ForegroundPositive=17,209,22
+ForegroundVisited=49,91,239
+
+[Colors:Selection]
+BackgroundAlternate=82,148,226
+BackgroundNormal=86,87,245
+DecorationFocus=86,87,245
+DecorationHover=86,87,245
+ForegroundActive=255,128,224
+ForegroundInactive=142,203,233
+ForegroundLink=66,133,244
+ForegroundNegative=156,14,14
+ForegroundNeutral=255,221,0
+ForegroundNormal=255,255,255
+ForegroundPositive=128,255,128
+ForegroundVisited=224,64,251
+
+[Colors:Tooltip]
+BackgroundAlternate=54,57,62
+BackgroundNormal=33,35,41
+DecorationFocus=86,87,245
+DecorationHover=86,87,245
+ForegroundActive=255,128,224
+ForegroundInactive=153,153,153
+ForegroundLink=66,133,244
+ForegroundNegative=191,3,3
+ForegroundNeutral=176,128,0
+ForegroundNormal=221,221,221
+ForegroundPositive=0,110,40
+ForegroundVisited=224,64,251
+
+[Colors:View]
+BackgroundAlternate=54,56,62
+BackgroundNormal=49,49,58
+DecorationFocus=86,87,245
+DecorationHover=86,87,245
+ForegroundActive=255,128,224
+ForegroundInactive=153,153,153
+ForegroundLink=66,133,244
+ForegroundNegative=191,3,3
+ForegroundNeutral=176,128,0
+ForegroundNormal=234,234,234
+ForegroundPositive=0,110,40
+ForegroundVisited=224,64,251
+
+[Colors:Window]
+BackgroundAlternate=54,56,62
+BackgroundNormal=49,49,58
+DecorationFocus=86,87,245
+DecorationHover=86,87,245
+ForegroundActive=255,128,224
+ForegroundInactive=153,153,153
+ForegroundLink=66,133,244
+ForegroundNegative=191,3,3
+ForegroundNeutral=176,128,0
+ForegroundNormal=234,234,234
+ForegroundPositive=0,110,40
+ForegroundVisited=224,64,251
+
+[DirSelect Dialog]
+DirSelectDialog Size=924,604
+History Items[$e]=file:$HOME/Documents/coding work/git hub clones,file:$HOME/Videos/screenrecordings,fish://theena@192.168.8.101:22/home/theena/Videos
+
+[General]
+BrowserApplication=!env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/firefox_firefox.desktop /snap/bin/firefox %u
+ColorScheme=Layan
+Name=WhiteSurDark
+dbfile=/home/theena/.mozilla/firefox/s8lj1ke6.default/places.sqlite
+font=Noto Sans,14,-1,5,50,0,0,0,0,0,Condensed
+menuFont=Noto Sans,12,-1,5,50,0,0,0,0,0,Condensed
+shadeSortColumn=true
+toolBarFont=Noto Sans,14,-1,5,50,0,0,0,0,0,Condensed
+widgetStyle=Breeze
+
+[Icons]
+Theme=WhiteSur-dark
+
+[KDE]
+AnimationDurationFactor=0
+ColorScheme=Breeze
+LookAndFeelPackage=com.github.vinceliuice.WhiteSur-dark
+contrast=4
+widgetStyle=Fusion
+
+[KFileDialog Settings]
+Allow Expansion=false
+Automatically select filename extension=true
+Breadcrumb Navigation=true
+Decoration position=2
+LocationCombo Completionmode=5
+PathCombo Completionmode=5
+Show Bookmarks=false
+Show Full Path=false
+Show Inline Previews=true
+Show Preview=false
+Show Speedbar=true
+Show hidden files=false
+Sort by=Name
+Sort directories first=true
+Sort reversed=false
+Speedbar Width=135
+View Style=Detail
+
+[KScreen]
+ScaleFactor=1.25
+ScreenScaleFactors=eDP-1=1.25;DP-1=1.25;DP-2=1.25;DP-3=1.25;
+
+[KShortcutsDialog Settings]
+Dialog Size=600,480
+
+[WM]
+activeBackground=54,56,62
+activeBlend=59,62,68
+activeForeground=221,221,221
+inactiveBackground=62,65,71
+inactiveBlend=67,71,77
+inactiveForeground=120,120,120

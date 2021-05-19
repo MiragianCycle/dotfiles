@@ -1,0 +1,14 @@
+[Plugins]
+org.kde.ActivityManager.ResourceScoringEnabled=true
+org.kde.ActivityManager.VirtualDesktopSwitchEnabled=true
+
+[activities]
+e2d152fd-fb9a-49bd-b8fb-6fb89d396574=Default
+
+[activities-icons]
+e2d152fd-fb9a-49bd-b8fb-6fb89d396574=workspace-overview
+
+[main]
+currentActivity=e2d152fd-fb9a-49bd-b8fb-6fb89d396574
+runningActivities=e2d152fd-fb9a-49bd-b8fb-6fb89d396574
+stoppedActivities=

@@ -1,0 +1,148 @@
+[Default Item Styles - Schema Breeze Dark]
+Error=ffda4453,ffda4453,0,,,1,-,-,,---
+
+[Default Item Styles - Schema KDE]
+Alert=ffbf616a,ffbf616a,1,,,,ff613d46,-,,---
+Annotation=ff7cb7ff,ffbdc3c7,,,,,-,-,,---
+Attribute=ff5e81ac,fffdbc4b,,,,,-,-,,---
+Base-N Integer=ffd08770,ffd08770,,,,,-,-,,---
+Built-in=ff7cb7ff,ffbdc3c7,,,,,-,-,,---
+Character=ff4c566a,ff2e3440,,,,,-,-,,---
+Comment=ff666a73,ffd8dee9,,,,,-,-,,---
+Comment Variable=ff7cb7ff,ffbdc3c7,,,,,-,-,,---
+Constant=ffd8dee9,ffd8dee9,1,,,,-,-,,---
+Control Flow=ffd8dee9,ffd8dee9,1,,,,-,-,,---
+Data Type=ff5e81ac,fffdbc4b,,,,,-,-,,---
+Decimal/Value=ffd08770,ffd08770,,,,,-,-,,---
+Documentation=ffbf616a,ffbf616a,,,,,-,-,,---
+Error=ffbf616a,ffbf616a,,,,1,-,-,,---
+Extension=ff0095ff,ffd8dee9,1,,,,-,-,,---
+Floating Point=ffd08770,ffd08770,,,,,-,-,,---
+Function=ffd08770,ffd08770,,,,,-,-,,---
+Import=ff7cb7ff,ffbdc3c7,,,,,-,-,,---
+Information=ffd08770,ffd08770,,,,,-,-,,---
+Keyword=ffd8dee9,ffd8dee9,1,,,,-,-,,---
+Normal=ffd8dee9,ffd8dee9,,,,,-,-,,---
+Operator=ffd8dee9,ffd8dee9,,,,,-,-,,---
+Others=ffa3be8c,ffa3be8c,,,,,-,-,,---
+Preprocessor=ffa3be8c,ffa3be8c,,,,,-,-,,---
+Region Marker=ff5e81ac,fffdbc4b,,,,,ff38485f,-,,---
+Special Character=ff4c566a,ff2e3440,,,,,-,-,,---
+Special String=ffbf616a,ffbf616a,,,,,-,-,,---
+String=ffbf616a,ffbf616a,,,,,-,-,,---
+Variable=ff5e81ac,fffdbc4b,,,,,-,-,,---
+Verbatim String=ffbf616a,ffbf616a,,,,,-,-,,---
+Warning=ffbf616a,ffbf616a,,,,,-,-,,---
+
+[Default Item Styles - Schema Normal]
+Error=ffbf0303,ff9c0e0e,,0,,1,-,-,,---
+
+[Default Item Styles - Schema Solarized (dark)]
+Error=ffdc322f,ffdc322f,1,,,1,-,-,,---
+
+[Default Item Styles - Schema Solarized (light)]
+Error=ffdc322f,ffdc322f,1,,,1,-,-,,---
+
+[Default Item Styles - Schema Vim (dark)]
+Error=ffffaa00,ffff5500,1,0,0,1,-,-,,---
+
+[Highlighting Bash - Schema Normal]
+Alerts:Alert Level 1=28,ffe85848,ffe85848,,,,,ff451e1a,ff000000,,---
+Alerts:Alert Level 2=28,ffca9219,ffca9219,,,,,ff451e1a,ff000000,,---
+Alerts:Alert Level 3=28,ff81ca2d,ff81ca2d,,,,,fff7e6e6,ff000000,,---
+Alerts:Normal Text=0,,,,,,,,,,---
+Alerts:Region Marker=25,ff0057ae,ff00316e,,,,,ffe0e9f8,ff000000,,---
+Bash:Backquote=1,,,,,,,,,,---
+Bash:Builtin=6,ff644a9b,ff452886,,,,,,,,---
+Bash:Command=2,ff644a9b,ff452886,,,,,,,,---
+Bash:Comment=21,ff898887,ff5e5d5d,,,,,,,,---
+Bash:Control=1,,,,,,,,,,---
+Bash:Error=30,ffbf0303,ff9c0e0e,,,,,,,,---
+Bash:Escape=16,ff0057ae,ff00316e,,,,,,,,---
+Bash:Expression=29,ff006e28,ff006e28,,,,,,,,---
+Bash:Function=2,ff644a9b,ff452886,,,,,,,,---
+Bash:Keyword=1,,,,,,,,,,---
+Bash:Normal Text=0,,,,,,,,,,---
+Bash:Option=0,,,,,,,,,,---
+Bash:OtherCommand=7,ff0095ff,ffffffff,,,,,,,,---
+Bash:Path=0,,,,,,,,,,---
+Bash:Redirection=5,,,,,,,,,,---
+Bash:String DoubleQ=12,ffbf0303,ff9c0e0e,,,,,,,,---
+Bash:String Escape=16,ff0057ae,ff00316e,,,,,,,,---
+Bash:String SingleQ=12,ffbf0303,ff9c0e0e,,,,,,,,---
+Bash:String Transl.=12,ffbf0303,ff9c0e0e,,,,,,,,---
+Bash:Variable=3,ff0057ae,ff00316e,,,,,,,,---
+Modelines:Comment=21,ff898887,ff5e5d5d,,,,,,,,---
+Modelines:Keyword=23,ffca60ca,ffa44ea4,,,,,,,,---
+Modelines:Number=17,ffb08000,ff805c00,,,,,,,,---
+Modelines:Option OFF=29,ff006e28,ff006e28,,,,,,,,---
+Modelines:Option ON=29,ff006e28,ff006e28,,,,,,,,---
+Modelines:String=12,ffbf0303,ff9c0e0e,,,,,,,,---
+Modelines:Value=29,ff006e28,ff006e28,,,,,,,,---
+Modelines:Variable=24,ff0095ff,ffffffff,,,,,,,,---
+
+[Highlighting None - Schema Breeze Dark]
+None:Normal=0,,,,,,,,,,---
+
+[Highlighting None - Schema KDE]
+None:Normal=0,,,,,,,,,,---
+
+[Highlighting None - Schema Normal]
+None:Normal=0,,,,,,,,,,---
+
+[Highlighting None - Schema Solarized (dark)]
+None:Normal=0,,,,,,,,,,---
+
+[Highlighting None - Schema Solarized (light)]
+None:Normal=0,,,,,,,,,,---
+
+[Highlighting None - Schema Vim (dark)]
+None:Normal=0,,,,,,,,,,---
+
+[Highlighting TOML - Schema Normal]
+Alerts:Alert Level 1=28,ffe85848,ffe85848,,,,,ff451e1a,ff000000,,---
+Alerts:Alert Level 2=28,ffca9219,ffca9219,,,,,ff451e1a,ff000000,,---
+Alerts:Alert Level 3=28,ff81ca2d,ff81ca2d,,,,,fff7e6e6,ff000000,,---
+Alerts:Normal Text=0,,,,,,,,,,---
+Alerts:Region Marker=25,ff0057ae,ff00316e,,,,,ffe0e9f8,ff000000,,---
+TOML:Array=5,,,,,,,,,,---
+TOML:Assignment=5,,,,,,,,,,---
+TOML:Bool=20,ffaa5500,ff5e2f00,,,,,,,,---
+TOML:Comment=21,ff898887,ff5e5d5d,,,,,,,,---
+TOML:Date=18,ffb08000,ff805c00,,,,,,,,---
+TOML:Error=30,ffbf0303,ff9c0e0e,,,,,,,,---
+TOML:Escape=11,ff3daee9,fffcfcfc,,,,,,,,---
+TOML:Float=19,ffb08000,ff805c00,,,,,,,,---
+TOML:InlineTable=5,,,,,,,,,,---
+TOML:Int=17,ffb08000,ff805c00,,,,,,,,---
+TOML:Key=16,ff0057ae,ff00316e,,,,,,,,---
+TOML:LitString=13,ffbf0303,ff9c0e0e,,,,,,,,---
+TOML:NextEntry=5,,,,,,,,,,---
+TOML:Normal Text=0,,,,,,,,,,---
+TOML:String=12,ffbf0303,ff9c0e0e,,,,,,,,---
+TOML:TableHeader=1,,,,,,,,,,---
+TOML:Whitespace=0,,,,,,,,,,---
+
+[Highlighting TOML - Schema Solarized (dark)]
+Alerts:Alert Level 1=28,ffe85848,ffe85848,,,,,ff451e1a,ff000000,,---
+Alerts:Alert Level 2=28,ffca9219,ffca9219,,,,,ff451e1a,ff000000,,---
+Alerts:Alert Level 3=28,ff81ca2d,ff81ca2d,,,,,,,,---
+Alerts:Normal Text=0,,,,,,,,,,---
+Alerts:Region Marker=25,ff268bd2,ff268bd2,,,,,ff073642,ff000000,,---
+TOML:Array=5,ff859900,ff859900,,,,,,,,---
+TOML:Assignment=5,ff859900,ff859900,,,,,,,,---
+TOML:Bool=20,ff2aa198,ff2aa198,,,,,,,,---
+TOML:Comment=21,ff586e75,ff93a1a1,,,,,,,,---
+TOML:Date=18,ff2aa198,ff2aa198,,,,,,,,---
+TOML:Error=30,ffdc322f,ffdc322f,,,,,,,,---
+TOML:Escape=11,ffdc322f,ffdc322f,,,,,,,,---
+TOML:Float=19,ff2aa198,ff2aa198,,,,,,,,---
+TOML:InlineTable=5,ff859900,ff859900,,,,,,,,---
+TOML:Int=17,ff2aa198,ff2aa198,,,,,,,,---
+TOML:Key=16,ffb58900,ffb58900,,,,,,,,---
+TOML:LitString=13,ff2aa198,ff2aa198,,,,,,,,---
+TOML:NextEntry=5,ff859900,ff859900,,,,,,,,---
+TOML:Normal Text=0,,,,,,,,,,---
+TOML:String=12,ff2aa198,ff2aa198,,,,,,,,---
+TOML:TableHeader=1,ff859900,ff859900,,,,,,,,---
+TOML:Whitespace=0,,,,,,,,,,---

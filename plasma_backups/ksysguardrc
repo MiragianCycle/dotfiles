@@ -1,0 +1,38 @@
+State=AAAA/wAAAAD9AAAAAAAAAyAAAAIsAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+
+[DownloadDialog Settings]
+Height 1080=429
+Width 1920=700
+
+[MainWindow]
+CommandList=
+Height 1080=916
+Height 1152=600
+Height 1296=1265
+Height 1440=916
+Height 1620=600
+Height 1728=1697
+Height 2160=473
+Height 617=259
+Height 864=833
+HostList=
+MenuBar=Disabled
+SelectedSheets[$e]=ProcessTable.sgrd,SystemLoad2.sgrd,System Load and Temps-1.01.sgrd,Temperature (lm_sensors)-1.0.sgrd,Nvidia Geforce Monitor-1.0.0.sgrd
+SplitterSizeList=466,331
+State=AAAA/wAAAAD9AAAAAAAABfoAAAZXAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1097=366
+Width 1536=1146
+Width 1920=1280
+Width 2048=800
+Width 2304=1146
+Width 2560=1280
+Width 2880=800
+Width 3072=1530
+Width 3840=640
+Window-Maximized 1296x2304=true
+currentSheet=0
+isMinimized=false
+
+[Notification Messages]
+endconfirmation=false

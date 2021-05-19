@@ -1,0 +1,36 @@
+[General]
+history=settings,syste,scree,typo,simple,obs,Typora,terminator,termi,gimp,disco,chrome,figma,monitor,typora,calen,bale,bluetooth,blue,softw,spec,zote,gith,zo,po,pulse a,auda,simp,libre,kdenlive,bla,yak,bal,ty,vscode,emacs,emac,ema,em,code,virtual,krita,typ,neo,konsole,grs,kden,sign,touche,touch
+
+[PlasmaRunnerManager]
+LaunchCounts=1 services_balena-etcher-electron.desktop,1 services_synaptic.desktop,2 services_transmission-gtk.desktop,1 services_kcm_kscreen.desktop,8 services_systemsettings.desktop,3 services_firefox.desktop,2 services_google-chrome.desktop,1 windows_0_148897800,1 shell_obs,4 services_emacs.desktop,6 services_code_code.desktop,2 services_org.kde.ksysguard.desktop,1 services_blueman-manager.desktop,1 services_org.kde.krita.desktop,1 services_org.kde.kate.desktop,1 services_firefox_firefox.desktop,2 services_virtualbox.desktop,9 services_emacs-term.desktop,1 windows_0_8388609,9 services_typora_typora.desktop,2 services_terminator.desktop,8 services_org.kde.kdenlive.desktop,1 services_org.signal.Signal.desktop,4 services_github-desktop.desktop,1 krunner_appstream_org.kde.krita,1 services_com.obsproject.Studio.desktop,5 services_discord_discord.desktop,2 services_com.github.joseexposito.touche.desktop,1 services_org.kde.konsole.desktop,1 services_org.gnome.DiskUtility.desktop,1 services_org.kde.discover.desktop,3 services_org.gnome.Software.desktop,1 krunner_appstream_nvim-qt.desktop,7 services_org.kde.yakuake.desktop,1 krunner_appstream_nvim.desktop,1 services_gimp.desktop
+
+[Plugins]
+CharacterRunnerEnabled=true
+DictionaryEnabled=true
+Kill RunnerEnabled=true
+PowerDevilEnabled=true
+Spell CheckerEnabled=true
+baloosearchEnabled=true
+bookmarksEnabled=true
+browsertabsEnabled=true
+calculatorEnabled=true
+desktopsessionsEnabled=true
+katesessionsEnabled=true
+konsoleprofilesEnabled=true
+krunner_appstreamEnabled=true
+kwinEnabled=true
+locationsEnabled=true
+org.kde.activitiesEnabled=true
+org.kde.datetimeEnabled=true
+org.kde.windowedwidgetsEnabled=true
+placesEnabled=true
+plasma-desktopEnabled=true
+recentdocumentsEnabled=true
+servicesEnabled=true
+shellEnabled=true
+unitconverterEnabled=true
+webshortcutsEnabled=true
+windowsEnabled=true
+
+[Runners][unitconverter]
+Length=mi

@@ -1,0 +1,15 @@
+[FileDialogSize]
+Height 1152=1008
+Width 2048=988
+
+[KFileDialog Settings]
+Recent Files[$e]=update,file:$HOME/pCloudDrive/bash scripts for debian or ubuntu based/update
+Recent URLs[$e]=file:$HOME/pCloudDrive/bash scripts for debian or ubuntu based/
+detailViewIconSize=0
+
+[Open-with settings]
+CompletionMode=1
+History=
+
+[PlasmaRunnerManager]
+LaunchCounts=

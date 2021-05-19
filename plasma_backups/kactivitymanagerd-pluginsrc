@@ -1,0 +1,8 @@
+[Plugin-org.kde.ActivityManager.Resources.Scoring]
+allowed-applications=VirtualBox,balena-etcher-electron.bin,cinnamon-settings,code,code_code,darktable,dolphin,file-roller,firefox,firefox_firefox,gimp,gio,github-desktop,gnome-control-center,google-chrome,gwenview,io.github.ksmoothdock,kate,libreoffice-calc,libreoffice-writer,okular,okularapplication_pdf,org.gnome.Nautilus,org.gnome.eog,org.gnome.evince,org.gnome.fileroller,org.gnome.gedit,org.gnome.totem,org.gnome.tweaks,org.kde.ark,org.kde.dolphin,org.kde.gwenview,org.kde.kate,org.kde.kdenlive,org.kde.kdialog,org.kde.krunner,org.kde.libtaskmanager,org.kde.plasma.browserintegrationreminder,org.kde.plasma.kicker,org.kde.plasmashell,org.kde.systemsettings,org.shotcut.Shotcut,qapt-deb-installer,soffice,soffice.bin,systemsettings,vlc,xdg-desktop-portal-gtk,xdg-desktop-portal-kde
+blocked-applications=
+keep-history-for=1
+off-the-record-activities=
+
+[Plugin-org.kde.ActivityManager.VirtualDesktopSwitch]
+desktop-for-e2d152fd-fb9a-49bd-b8fb-6fb89d396574=1
