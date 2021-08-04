@@ -1,0 +1,107 @@
+*YourTravel.com (“YT”) is a (fictional) travel company that provides pre-designed and customized travel experiences around the globe. In the pre-designed experiences, customers can select among several themes (eco-tourism, cultural, luxury, etc.) and whether they want to visit several countries or several cities within a country. The travel plans are designed for the customer and are priced accordingly.*
+
+*Over the last few years, YT has encountered increasing competition from incumbent sites and from the entry of traditional agencies into the digital sphere. To counter this, YT has designed a Virtual Reality (VR) service that will be provided in new YT showrooms, and is designed to attract customers to book for the real tour. The service consists of VR tours through the pre-designed experiences and the ability to customize trips with a selection of destinations. After the tours, customers can either pay the only cost of the VR experience without booking, book for the actual trip for a determined date by paying a (non-refundable) 5% of the full fare and not pay for VR, or have an open-date booking valid for one year by paying 15% of the fee (refundable for 12 months)---also without paying the cost of the VR experience.*
+
+*As COO of YT, your job is to design the whole process of the VR showrooms, to analyze the elements that will determine service times, and to suggest ways of providing excellent customer service.*
+
+**Review criteria**
+
+ *You will be evaluated based on:*
+
+1. *Whether your description of the process flow is structured, detailed, and realistic*
+2. *Whether you are able to identify and explain the possible process bottlenecks, the sources of variability, and their likely outcomes*
+3. *Whether you can correctly assess such service elements as inventory, waiting time, and throughput under several scenarios*
+4. *Whether you can connect the service elements with service levels and justify different strategies for maintaining a suitable customer service level*
+
+
+
+
+
+**Step-By-Step Assignment Instructions**
+
+In this assignment, you will complete three tasks:
+
+#### Task #1: Design the whole process of YT’s Virtual Reality showroom. 
+
+*Although the basic activities of the showrooms have been already set, your job as COO is to delineate the entire showroom process and decide which other activities or subprocesses itmight involve. For example: Will there be a waiting room? Will the showroom be located in an open area?Once you have completed the process, you must translate it into a flow diagram describing the entire customer journey and then give the rationale behind that flow. Finally, you must identify bottlenecks that could appear throughout the entire process and explain why they might arise.*
+
+*Please convert your flow diagram into a PDF or image format and upload it on “My Submission” page. Then you could write down the rationale behind the flow and bottlenecks in the textbox.*
+
+#### Task #2: Suggest the capacity of the showrooms and identify the possible effects of variability
+
+*The product management team behind the VR showrooms has given you the duration time of the different tours and the setup time for each machine.*
+
+*The pre-designed tours have a duration of 15 minutes and the customized ones take 3 minutes per destination, where a maximum of five destinations can be chosen.*
+
+*Setting up the VR tour takes 2 minutes for the pre-designed experiences and up to 5 minutes for the customized ones.*
+
+*You job is to suggest the capacity of the showrooms (amount of VR machines) based on different demand scenarios (number of visitors). Justify your selection using such metrics as waiting time or inventory levels. Also, identify the possible effects of variability in the whole process in terms of these metrics: First, identify the main sources of variability in the demand. Then, consider different scenarios for the variability level (no variability, coefficient of variation of 0.1, 0.2, ...) and modify your suggestion on what capacity should be put in place under these scenarios. Feel free to make any assumptions as you seem fit (regarding the demand distribution, variability of durations in the VR rooms etc.); don’t forget to clearly elaborate on those assumptions.* 
+
+
+#### CAPACITY 
+
+- Each VR Machine can do three (3) tours an hour regardless of what kind of tour (**Pre-Designed** or **Customised Tour**
+- I arrived at this number in the following way:
+    - **Pre-designed Tour** (Setup Time + Tour Time) = (2mins + 15mins) = **17 mins/Pre-Designed Tour** which in turn is 60mins/17 = ***3.54 Pre Designed Tours / Hour***
+    - **Customised Tour** (Setup Time + Tour Time) = (5mins + 15 mins) = **20 mins/Customised Tour** which in turn is 60mins/20mins = ***3 Customised Tours / Hour*** 
+
+#### DEMAND SIDE SCENARIOS 
+
+- I based the following demand side scenarios based on [the data available here](https://www.cbi.eu/market-information/tourism/trade-statistics). Note that I have assumed pre-Covid related market conditions i.e. people are free to travel without any restrictions
+- I assume that the organization is focused on **Outbound Tourism**, not domestic tourism holiday market 
+- I am also assuming that the specific focus market in Europe to be France, and my data is based on the information [found here](https://www.condorferries.co.uk/france-tourism-statistics). This states the following: 
+    - France is the 5th largest outbound market for expenditure 
+    - In 2016, outbound tourism originating from France accounted for US$ 40,427 million
+
+Based on the above, I have come up with three scenarios: 
+
+- **Low demand**: 5 customers / hour 
+- **Normal demand**: 10 customers / hour 
+- **High demand**: 15 customers / hour 
+
+Using **Little's Law**, the following would be the inventory for the above three scenarios:
+
+- **Low demand**  where **R** is *5 customers per hour* and **T** is *3 tours per hour*, resulting in **I** = **15** 
+- **Normal demand** where **R** is *10 customers per hour* and **T** is *3 tours per hour*, resulting in **I** = **30** 
+- **High demand** where **R** is *15 customers per hour* and **T** is *3 tours per hour*, resulting in **I** = **45**
+
+
+
+#### Task #3: Use service engineering to identify best practices for maintaining a high level of customer service at the centers
+
+*Connect the service level metrics obtained in the previous exercise with the customer service level. Devise different policies and best practices to ensure that the VR showrooms will always provide excellent customer service. What can you do to minimise waiting? How about the space needed for the VR rooms?*
+
+#### SERVICE ENGINEERING CUSTOMER SERVICE YouTravel.com 
+
+Based on the detailed inventory and capacity levels discussed earlier, the following are my service engineering recommendations for ensuring a high level of customer service: 
+
+- The process flow accounts for waiting rooms to accommodate two kinds of customers, both prior-bookings as well as walk-ins
+- The prior-booking type customers face little waiting time (though technical malfunction in the equipment is a *foreseen uncertainty*)
+- Customers who walk-in without appointments are taken through a parallel waiting process that involve a waiting room, an Experience Concierge, and Digital Sales Brochures 
+- We expect even waiting rooms to be at capacity when there is a high demand time - say for example, booking tours to the warmer countries for winter times. In such cases, the Experience Concierge will serve two purposes: 1) they would ensure they keep customer engaged through friendly conversation - the conversation can be used to politely inquire on customer's travel needs; this would save time when that customer's time at the VR kit, the decision of weather the customer wants a Pre-Designed Tour or Customized Tour is already made, reducing time taken to set up the tour; 2) the Experience Concierge is in charge of customer waiting area, keeping track of the utilization of the VR Showroom; when a VR machine is available, the notification arrives to the Experience Concierge who would direct the customer to the VR Showroom 
+- We expect waiting rooms to be full during High Demand times. In these scenarios, the Inventory is broken into two groups; the ones who are seated are offered a Digital Sales Brochure, an iPad app that serves as a teaser trailer to the main tours offered via VR while the ones who don't have a place to sit are engaged with by the Experience Concierge 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Assignment Tips
+
+Remember, numbers speak louder than opinions. Try to use as many computations as necessary and to incorporate outside data that supports your analysis.
+
+When reviewing your peers’ assignments, be open minded and do not rely solely on your own work as a benchmark. Revise the robustness of the arguments and analysis. Creativity and consistency are major points to be evaluated in this assignment.
+

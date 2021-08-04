@@ -1,0 +1,35 @@
+% Free LaTeX novel template from Typesetters.se.
+
+\documentclass{tsnovel}
+
+\begin{document}
+
+\tsnovel{Book Title}
+        {Author Name}
+        {<year of publication>}
+        {<isbn>}
+        {<publisher>}
+        {<city where printed>}
+
+\chapter{First chapter}
+
+\first{O}nce upon a time there was a\ldots
+\blindtext
+
+\Blindtext[3][3]
+
+\chapter{Second chapter}
+
+\first{I}n the castle also lived a\ldots
+\blindtext
+
+\Blindtext[3][3]
+
+\chapter{Third chapter}
+
+\first{T}he horses in the stable were\ldots
+\blindtext
+
+\Blindtext[3][3]
+\chapter[4]
+\end{document}

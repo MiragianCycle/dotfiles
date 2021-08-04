@@ -1,0 +1,151 @@
+# SCALING UP OPERATIONS
+
+**Course Goals and Objectives**
+
+Upon successful completion of this course, you will be able to:
+
+- Recognize the difference between a startup and a scale-up and the key strategies used to scale a startup
+- Use qualitative and quantitative tools to make decisions in the face of uncertainty
+- Use basic project management tools effectively
+- Use core strategies to identify problems in a company’s daily operations
+- Demonstrate knowledge of the retail sector, including key aspects of supply chain management, and describe how that sector is evolving
+
+**Textbook and Readings**
+
+There is no required textbook for this course. I have provided you with many references to online articles and resources that will help deepen your understanding of the subject.
+            
+**Course Outline**
+
+The course consists of four modules that focus on key areas of operations management. These areas include lean operations, project management, decision making under uncertainty, service operations management, and supply chain management.
+
+1. *Introduction to Scaling*, Experimentation,and LeanBy the end of this module, you should be able to: 1. Distinguish between the startup and scaling-up phases 2. Demonstrate a familiarity with different scaling strategies, including horizontal and vertical scaling 3. Recognize factors that enable scaling up, including process innovation and service engineering 4. Demonstrate knowledge of the origins of lean and its key terminology. Apply lean concepts in the scaling-up process via the lean startup methodology
+
+2. *Decision Making under Uncertainty and Project Management* By the end of this module, you should be able to: 1. Identify the four types of uncertainty and evaluate their implications for startups 2. Recognize the tools used to measure and represent uncertainty and exhibit an understanding of how they can be applied in the startup context 3. Explain the difference between quantitative and qualitative methods of forecasting 4. Identify the business tools commonly used to manage uncertainty 5. Demonstrate a basic knowledge of how to use such core project management tools as WBS, CPM, and resource allocation 6. Understand how project management can be used to manage uncertainty
+
+3. *Process Theory and Waiting Time Analysis* By the end of this module, you should be able to: 1. Demonstrate a thorough understanding of the Point Vision case study, including the key challenges and opportunities for Point Vision 2. Identify the basics of process theory, to include recognizing all the components of a process diagram 3. Identify a bottleneck, increase efficiency, and reduce the waiting time in a process 4. Demonstrate a knowledge of queuing and how it affects a process 5. Recognize the different types of waiting that a customer can encounter and evaluate methods to improve customer experience
+
+4. *Retail Operations and Supply Chain Management* By the end of this module, you should be able to: 1. Distinguish between the traditional retail sector and the contemporary retail climate 2. Assess the strengths and weaknesses of a subscription service model 3. Identify and use basic inventory management terminology 4. Describe the main factors that have contributed to Amazon’s retail success 5. Evaluate the key methods for sourcing and logistics as well as the factors that go into making sourcing and logistics decisions
+
+
+## WEEK 1
+
+**INTRODUCTION**
+
+- Fredrick Taylor's 'The Principles of Scientific Management' revolutionized how management scholars viewed efficiency in the work place 
+- These were the same ideas that fuelled the Model T Assembly in Henry Ford's factories 
+- Operations management is applying scientific methods across the body, whether manufacturing or service 
+- Do operations management have applications for startups in the digital era?
+- This course will attempt to answer this question.
+- We will examine fundamental operational management concepts in the context of startups
+- We will debate if these concepts have applications in a rapidly changing digital marketplace
+- We will examine how Amazon used these concepts to go from a small ecommerce to the world's largest marketplace 
+- How did Netflix go from DVD rentals to becoming the most iconic streaming service in the world?
+- We will cover these four areas:
+    - Lean Management which originated in Toyota 
+    - Formal decision-making methods under uncertainty
+    - Process theory and challenges scaling may create for services that an organization offers 
+    - Practical issues and supply chain management 
+
+**HOW TO KNOW WHEN AND IF WE ARE SCALING** 
+
+- What does scaling up mean? 
+- Scaling up is a continuous process - not a one off 
+- The process to create and the process to scale up are **different** 
+- Organizational lifecycle can be mapped to that of a person - if a startup = an infant, then a scaling-up operation is the infant going into pre-teenage
+- In both cases, however, stability and maturity is still not attained 
+- On the surface, if startups are in the phase of exploring the right product-market fit, then scale-ups have achieved this, and now are focusing on growth 
+- From a HR hiring standpoint, startups need *generalists* while scale-ups need *experts/specialists* 
+- Information flow is dynamic in startups while scale-ups have information to be focused and prioritized 
+- In terms of leadership, startups require a rockstar like CEO while the scale-ups require more traditional leadership styles 
+- According to the World Economic Forum, scaling up is defined as 'assessing success factors in enabling a business to expand in terms of market access, revenues, added value and the number of employees, in particular, identifying and realizing win-win opportunities for collaboration between market leaders and market disruptors.'
+- Scaling up are looking for growth in revenue and employee numbers 
+- Scale-ups need to identify and realize win-win opportunities for collaboration with other startups and more established companies 
+
+
+**Scaling Up: Metrics, Pitfalls, and Strategies**
+
+- Some of the ways an organization signals that it is ready for scaling up the operations is through metrics: revenue, profits and number of employee are all indicators of an organization on the verge of needing to scale up 
+- However there is **no consensus** 
+- According to the OECD, *start-ups are in the process of scaling up when it has had at least 20% growth over the last three years 
+- **Start-up Europe Partnership** defines three stages of startups: start-up, scale-up, and scaler. In this category, a scale-up has gone from raising $1 million dollars of funds in the last three years 
+- What are classic mistakes organizations make when scaling up? 
+- One such mistake is to *scale prematurely* 
+- **Premature scaling** is when a startup substantially increases its capacity before having solid indicators that enough people are willing to buy its products or services - even in the scenario of accelerated growth, startups tend to burn cash, driven by optimism, and lack of planning 
+- This is the usually the first reason companies that scale too fast without any planning fail
+- On the other hand, insufficient scaling is when a business doesn't react fast enough to catch up with the growth of the business. *This is usually the result of what is called '*linear thinking*' 
+- *Linear thinking* is assuming that growth is linear which it never is 
+- Insufficient planning is also at the root for insufficient scaling 
+- The question of 'Why is fast growth bad?' will be explored deeper in later lessons but for the timebeing let us say that too fast a growth can minimize the prospects for growth in future business stages 
+- Founders, therefore, can be too hasty or too slow in scaling - both of which can be avoided through proper planning 
+- Scaling can be **horizontal** or **vertical** scaling (borrowed from networking computer science to explain different ways to grow a system or network)
+- The idea of horizontal and vertical scaling can be applied in the context of operations management outside of IT as well 
+- *Vertical scaling is how most startups grow* - This is when growth is achieved by focusing on one market or one customer segment, getting higher demand from it. This concentrated effort result in a more efficient allocation of resources, but could increase risk of the early stage of putting all the eggs into one market
+- *Horizontal scaling is about diversifying the sources of growth* - In contrast, horizontal scaling looks to diversify the sources of growth, either by tackling different markets, aiming at different customer segments, or customizing the value proposition to a segment of the market. This method of scaling up helps to diversify risk but requires signifiant flexibility and organization, especially from an operational point of view 
+
+
+**READING MATERIAL**
+
+- [The Six Steps to Scaling A Business](https://www.forbes.com/sites/philipsalter/2016/05/02/the-six-steps-to-scaling-a-business/?sh=6acad44d1ca9)
+
+    []- Commit to Grow
+    []- Build a broad management skillset
+    []- Build collaborations
+    []- Establish standardized processes
+    []- Identify core competence
+    []- Articulate competitive strength
+
+**Operations Management: Matching Supply with Demand** 
+
+- In this lesson, we will learn about the role operations has in scaling up 
+- Operations management at its simplest *meeting supply with demand* 
+- Finance and marketing often overshadow operations 
+- Operations was the critical focus for Amazon at the time they started 
+- Excelling in operations management is how firms like Amazon experienced exponential growth 
+- **Blue Ocean Strategy**, the famous management book, offered that innovating ways of matching supply with demand is an incredibly rich area of growth 
+- What does this mean? Here are two examples. Note that these examples differ in that one of them is demand-side innovation, and the other is a supply-side innovation
+
+    - Process innovation can lead to the decrease in unit delivery of production or distribution costs, without sacrificing quality of value proposition. Zara, for instance, by modifying existing trendy designs based on customer feedback - this way, they were able to eliminating the traditional industry method of refreshing garment design on a seasonal basis, Zora was able to achieve competitive advantage by refreshing its designs twice a month based on customer feed back 
+   > **QUOTE FROM SAM**
+   >> To maintain these agile systems, Zora has kept its seasonal manufacturing in Spain and Morocco instead of moving their manufacturing to Asia like the rest of their competitors 
+
+- Process innovation can also be achieved through by matching demand with supply - in this case, let's consider Netflix 
+- Netflix transitioned from DVD rentals to online streaming services, by acquiring the licences from other content producers, to creating and distributing their own content. 
+- In both the case of Zara and Netflix, we can see how changes in the process of delivering value to create their own blue ocean, by tailoring demand to supply 
+- Service engineering involves the design and pricing of side services in order to appeal to a broader market and improve resource utilization in the company
+- This can be achieved in two different ways: 
+    - The first is through virtual modification to services - these are the options that affect the delivery of consumption of a product or service, without making changes to the core offering. Consider the hotel that is overbooked where the hotel manager would offer reduced rates to customers who are willing to have their reservations changed 
+    - The other is the case of 'bundling' or 'unbundling' where additional services from core services and creating different versions of the same core service to appeal to different segment of the market 
+    - Think about the different options airlines offer on plane tickets. In the software industry, Adobe packages its entire suite into the CC packaging while also offering each of the apps as a standalone subscription 
+    - While service engineering is a relatively new concept its efficacy is promising. In the Software as a Service (SAS) sector, vendors provide different markets from students to managers with the same base product where the version and functionality differ based on use and needs 
+
+
+
+#### SUMMARY AND FURTHER READING 
+
+1. There are three types of innovation in business - *product*, *process* and *business model innovation* 
+2. [The Three Types of Innovation](https://differential.com/insights/the3typesofinnovation/)
+3. [A successful startup: Maximize Operational Efficiencies](https://differential.com/insights/the3typesofinnovation/)
+
+
+
+
+
+**LINEAR vs EXPONENTIAL ORGANIZATIONS**
+
+- What are the implications of growth? 
+- First we must look into the two kinds of growth - *exponential* and *linear* - Growth doesn't isn't linear 
+- The idea of growth can be examined via Moore's Law who observed that the number of transistors were growing exponentially in Integrated Chips that were at the heart of computing 
+- Ray Kurzweil believed that anything powered by information doubles its price-power ratio annually. He called *Law of Accelerating Returns* in which he observed that the driver fueling exponential growth patterns of technology was information. 
+- Kurzweil observation has bearing in bio-tech, AI, robotics
+- Exponential growth is 'one whose impact or output is disproportionately large, at least 10 times larger compared to its peers because the use of organizational techniques and leveraging accelerating technology'
+- Startups such as AirBNB, Uber and Waze have followed the exponential growth trajectory 
+- With exponential growth as pretext, it is important for startups to develop their scaling up capabilities  to accomodate rapid growth. One such example is *Pod Point*, an at-home electric vehicle charging port, which was one of the UK's fastest growing startups. 
+- The company faced massive challenges in scaling up as processes and procedures were under pressure - linear thinking is a major problem for large organizations, but it can be devastating for startups
+- Linear organizations operate under the assumption that productivity is a function of power - in other words, X amount of work takes Y amount of resources, and that the ratio is a constant. 
+- In linear organizations are realized through economies of scale, and traditional practices are rarely disrupted. 
+- This linear slope has been challenged by automation, mass production and new consumption patterns 
+- The first key concept to accommodate exponential growth is a *shift from the linear view of owning assets, such as machinery and other capex, to a model of renting and sharing fixed assets. This is called *collaborative consumption*, coined by Rachel Botsman and Roo Rogers.*
+- Enterprises like FLOOOW2 have emerged where businesses can rent or share facilities, equipment, and skilled employees. 
+- This leveraging of external resources allow scalability because renting non-critical assets removes the burden or owning and managing them. *Kickstarter*, for example, allows manufacturers and inventors to focus on new product ideas while simply managing the fundraising for the new product 
+- Besides a shift from the linear view of owning assets, **experimentation and risk-taking are key to achieving exponential growth 
+- 

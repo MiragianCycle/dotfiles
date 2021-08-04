@@ -1,0 +1,87 @@
+
+Sun 09 May 2021 09:31:52 PM +0530
+
+- Part of what I want to explore with this series on OSS, and OSS motivations being timeless is to examine the theory of knowledge, and knowledge dissemination. These are some questions to answer in figuring out the first article. 
+-
+- What is knowledge? 
+        > Notes from here: https://www.marx  ists.org/reference/subject/philosophy/works/en/russell1.htm 
+        >> According to Russel, the *Theory of Knowledge* is a product of doubt. 'When we have asked ourselves seriously whether we really know anything at all, we are naturally led into an examination of knowing, in the hope of being able to distinguish trustworthy beliefs from such as as untrustworthy'
+        >> #### THE DEFINITION OF KNOWLEDGE 
+- Philosophically speaking, this is the hardest of epistemological questions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- What is open knowledge? 
+- What can OSS teach us about how knowledge is gained, and then spread? 
+- What lessons does the fall of the Library of Alexandria pose to our generation? In what way can a similar event be prevented? Does the existence of the internet lull us into a sense of false comfort? What happens if all the knowledge that is at the tip of our fingers disappear all of a sudden? Does it mean we won't know directions? Or how to spell? Or to fact check? Does it mean we won't know what is going on outside the spaces that we live in? 
+-
+Sat 15 May 2021 10:19:16 PM +0530
+
+# THE HISTORY OF INTELLECTUAL PROPERTY 
+
+- Historial perspective 
+-Where is intellectual property now? 
+-What are the drawbacks of the current system? 
+-What are the benefits of IP? 
+-Open solutions for open problems: set the need for a new way of thinking about IP in the face of modern problems: the vaccines supply issue that is currently slowing down the mobilization of the vaccine to poorer parts of the world is a case in point.
+
+
+**OPENING PARA SKETCH**
+
+As the people of the 21st century took their first steps into the third decade of the century of technology and openess, a pandemic 
+
+A pandemic hit the people of the 21st Century just as they stepped into the era's third decade.
+
+If you wonder how, in the midst of a pandemic, we can bicker over intellectual property
+
+
+
+## VIMRC Script for video tutorial 
+
+Hello everyone. 
+
+I recently [wrote of my relatively recent discovery of Vim](https://news.itsfoss.com/how-i-started-loving-vim/), and how Vim was the writing tool I've been looking for all my writing career. 
+
+So this is a quick over view of my .vimrc. A quick note, this .vimrc is designed for writing, and writing specifically in Markdown. I do, however, indulge in some hobbyist coding, so my vim spans both coding and writing. However, the focus here will be making vim writer friendly. 
+
+The structure of this video is simple:
+
+1. Why Vim for writing 
+2. How did I start? 
+3. My Vim plug-ins 
+4. My .vimrc 
+5. A simple workflow for note-taking 
+
+Just a word of note, I do have some non-writing plug-ins too as I do indulge in some hobbyist coding - this isn't relevant for writers so I will skip them. I will also not spend too much time discussing. 
+
+#### WHY VIM FOR WRITING 
+
+- Cross platform - one tool across all my devices. I wrote about this extensively in my column for It's Foss which I will link to below.
+- Distraction-free: I like my writing environment to be free of any distracting visual artefacts 
