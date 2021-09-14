@@ -35,7 +35,10 @@ endif
 " want to use
 call plug#begin('~/.vim/plugged')
 
-
+" main one
+Plug 'ms-jpq/coq_nvim', {'branch': 'coq'}
+" 9000+ Snippets
+Plug 'ms-jpq/coq.artifacts', {'branch': 'artifacts'}
 Plug 'ervandew/supertab' 
 Plug 'nvie/vim-flake8'
 Plug 'tmhedberg/SimpylFold'
@@ -51,7 +54,8 @@ Plug 'voldikss/vim-floaterm'
 Plug 'turbio/bracey.vim'
 "Plug 'JamshedVesuna/vim-markdown-preview'
 Plug 'vimwiki/vimwiki'
-
+Plug 'maxmellon/vim-jsx-pretty'
+Plug 'jceb/vim-orgmode'
 "   This is a selection of plugins to make prose writing easier. 
 
 Plug 'dpelle/vim-LanguageTool' 
@@ -146,9 +150,9 @@ Plug 'michaeljsmith/vim-indent-object'
 " Indentation based movements
 Plug 'jeetsukumaran/vim-indentwise'
 " Python autocompletion, go to definition.
-Plug 'davidhalter/jedi-vim'
+"Plug 'davidhalter/jedi-vim'
 " Better autocompletion
-" Plug 'Shougo/neocomplcache.vim'
+ "Plug 'Shougo/neocomplcache.vim'
 " Snippets manager (SnipMate), dependencies, and snippets repo
 "Plug 'MarcWeber/vim-addon-mw-utils'
 "Plug 'tomtom/tlib_vim'
@@ -218,7 +222,12 @@ filetype indent on
 set wrap
 set spell
 
+" Enable autocompletion from neocomplcache
 
+" Enable omni completion.
+autocmd FileType css setlocal omnifunc=csscomplete#CompleteCSS
+autocmd FileType html,markdown setlocal omnifunc=htmlcomplete#CompleteTags
+autocmd FileType javascript setlocal omnifunc=javascriptcomplete#CompleteJS
 
 " tabs and spaces handling
 set expandtab
@@ -500,3 +509,6 @@ let g:airline_right_sep = '⮂'
 " supertab settings
 set completeopt=longest,menuone
 let g:SuperTabDefaultCompletionType = "<c-n>"
+
+" emmet settings 
+let g:user_emmet_leader_key='\'
