@@ -54,11 +54,30 @@ Plug 'voldikss/vim-floaterm'
 Plug 'turbio/bracey.vim'
 "Plug 'JamshedVesuna/vim-markdown-preview'
 Plug 'vimwiki/vimwiki'
+Plug 'chipsenkbeil/vimwiki-server.nvim', { 'tag': 'v0.1.0-alpha.5' }
 Plug 'maxmellon/vim-jsx-pretty'
 Plug 'jceb/vim-orgmode'
+Plug 'sbdchd/neoformat'
+Plug 'nvim-neorg/neorg' 
+Plug 'nvim-lua/plenary.nvim'
+Plug 'nvim-telescope/telescope.nvim'
+Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}  " We recommend updating the parsers on update
+Plug 'RishabhRD/popfix'
+Plug 'RishabhRD/nvim-cheat.sh'
+Plug 'glacambre/firenvim', { 'do': { _ -> firenvim#install(0) } }
+"Plug 'metakirby5/codi.vim'
+Plug 'kristijanhusak/orgmode.nvim'
+Plug 'vigoux/LanguageTool.nvim'
+Plug 'junegunn/fzf.vim'
+Plug 'michal-h21/vim-zettel'
+Plug 'https://github.com/alok/notational-fzf-vim'
+let g:nv_search_paths = ['~/Documents' ]
+let g:languagetool_server_jar="/home/theena/languagetool/languagetool-commandline-2.2._jar"
+
 "   This is a selection of plugins to make prose writing easier. 
 
 Plug 'dpelle/vim-LanguageTool' 
+let g:languagetool_jar="/home/theena/languagetool/languagetool-commandline-2.2.jar"
 Plug 'ron89/thesaurus_query.vim' 
 Plug 'junegunn/goyo.vim' 
 Plug 'junegunn/limelight.vim' 
@@ -73,20 +92,94 @@ Plug 'flazz/vim-colorschemes'
 Plug 'chriskempson/base16-vim'
 Plug 'gruvbox-community/gruvbox'
 
+"This is for Latex support
+Plug 'lervag/vimtex'
+let g:tex_flavor='latex'
+let g:vimtex_view_method='zathura'
+let g:vimtex_quickfix_mode=0
+set conceallevel=1
+let g:tex_conceal='abdmg'
 
-
-
-
-
-
-
-
+"This is another snippets related configuration
+Plug 'SirVer/ultisnips'
+"This ends snippets"
 Plug 'thaerkh/vim-workspace'
 
 "Related to above, the following code saves all session files in a single directory outside your
 "workspace
 
 let g:workspace_session_directory = $HOME . '/.vim/sessions/'
+
+"You motherfucking compete me 
+" Track the engine.
+Plug 'SirVer/ultisnips'
+
+" Snippets are separated from the engine. Add this if you want them:
+Plug 'honza/vim-snippets'
+
+" Trigger configuration. You need to change this to something other than <tab> if you use one of the following:
+" - https://github.com/Valloric/YouCompleteMe
+" - https://github.com/nvim-lua/completion-nvim
+let g:UltiSnipsExpandTrigger="<tab>"
+let g:UltiSnipsJumpForwardTrigger="<c-b>"
+let g:UltiSnipsJumpBackwardTrigger="<c-z>"
+
+" If you want :UltiSnipsEdit to split your window.
+let g:UltiSnipsEditSplit="vertical"
+
+
+
+
+
+
+
+
+
+
+"This is for Goyo Integration
+
+autocmd! User GoyoEnter Limelight
+autocmd! User GoyoLeave Limelight!
+" Color name (:help cterm-colors) or ANSI code
+let g:limelight_conceal_ctermfg = 'gray'
+let g:limelight_conceal_ctermfg = 240
+
+" Color name (:help gui-colors) or RGB color
+let g:limelight_conceal_guifg = 'DarkGray'
+let g:limelight_conceal_guifg = '#777777'
+
+" Default: 0.5
+let g:limelight_default_coefficient = 0.7
+
+" Number of preceding/following paragraphs to include (default: 0)
+let g:limelight_paragraph_span = 1
+
+" Beginning/end of paragraph
+"   When there's no empty line between the paragraphs
+"   and each paragraph starts with indentation
+let g:limelight_bop = '^\s'
+let g:limelight_eop = '\ze\n^\s'
+
+" Highlighting priority (default: 10)
+"   Set it to -1 not to overrule hlsearch
+let g:limelight_priority = -1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -221,6 +314,7 @@ filetype indent on
 
 set wrap
 set spell
+inoremap <C-l> <c-g>u<Esc>[s1z=`]a<c-g>u
 
 " Enable autocompletion from neocomplcache
 
@@ -253,6 +347,7 @@ syntax on
 
 " show line numbers
 set nu
+set relativenumber
 
 " tab navigation mappings
 map tn :tabn<CR>
@@ -293,9 +388,9 @@ nmap ,wr :Ack <cword><CR>
 " use 256 colors when possible
 if (&term =~? 'mlterm\|xterm\|xterm-256\|screen-256') || has('nvim')
 	let &t_Co = 256
-    colorscheme nord  
+    colorscheme gruvbox  
 else
-    colorscheme nord   
+    colorscheme gruvbox   
 endif
 
 " colors for gvim
@@ -487,7 +582,7 @@ let g:choosewin_overlay_enable = 1
 " Airline ------------------------------
 
 let g:airline_powerline_fonts = 0
-let g:airline_theme = 'bubblegum'
+let g:airline_theme = 'gruvbox'
 let g:airline#extensions#whitespace#enabled = 0
 
 " to use fancy symbols for airline, uncomment the following lines and use a
