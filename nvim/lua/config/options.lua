@@ -42,3 +42,4 @@ opt.clipboard: append( "unnamedplus")
 opt.modifiable = true 
 --opt.guicursor = true 
 opt.encoding = "UTF-8" 
+

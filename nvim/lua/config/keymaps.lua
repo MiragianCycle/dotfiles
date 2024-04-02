@@ -21,4 +21,5 @@ keymap.set("n", "<leader>o", ":Goyo<CR>", { noremap = true, silent = true})
 keymap.set("n", "<leader>tf", ":Translate fr<CR>", { noremap = true, silent = true})
 keymap.set("n", "<leader>tt", ":Translate ta<CR>", { noremap = true, silent = true})
 keymap.set("n", "<leader>ts", ":Translate si<CR>", { noremap = true, silent = true})
+keymap.set("n", "<leader>al", ":ALEToggle<CR>", { noremap = true, silent = true})
 
